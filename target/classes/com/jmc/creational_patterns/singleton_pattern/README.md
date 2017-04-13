@@ -1,3 +1,6 @@
+Singleton Pattern
+=================
+
 Singleton pattern is a creational pattern.
 
 This pattern involves only a single class which is responsible to creates its own object.
@@ -9,7 +12,8 @@ This class provides a way to access its only object.
 For example, when design a user interface, we may only have one main application windows. We can use the Singleton Pattern to ensure that there is only one instance of the MainApplicationWindow object.
 
 
-# Example
+Example
+-------------------
 * The following code is going to create a MainWindow class.
 
 * MainWindow class have its constructor as private and have a static instance of itself.
