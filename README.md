@@ -20,7 +20,7 @@ In core java, there are mainly three types of design patterns, which are further
 >**Creational Design Pattern**
 1. Factory Pattern
 2. Abstract Factory Pattern
-3. Singleton Pattern
+[3. Singleton Pattern](src/main/java/com/jmc/creational_patterns/singleton_pattern)
 4. Prototype Pattern
 5. Builder Pattern.
 >**Structural Design Pattern**
