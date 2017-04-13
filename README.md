@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="https://qph.ec.quoracdn.net/main-qimg-e966f479b74b12155f6a6ebdff1999cd-c" width="350"/>
   <img src="http://scribbledtech.com/wp-content/uploads/2016/10/JAVA-DESIGN-PATTERNS.jpg" width="350"/>
 </p>
 
@@ -50,5 +49,5 @@ In core java, there are mainly three types of design patterns, which are further
 10. Visitor Pattern
 
 <p align="center">
-  <img src="https://qph.ec.quoracdn.net/main-qimg-e966f479b74b12155f6a6ebdff1999cd-c" width="350"/>
+  <img src="https://qph.ec.quoracdn.net/main-qimg-e966f479b74b12155f6a6ebdff1999cd-c" width="150"/>
 </p>
