@@ -3,7 +3,7 @@ package com.jmc.creational_patterns.factory_pattern;
 import com.jmc.creational_patterns.factory_pattern.factory.ShapeFactory;
 import com.jmc.creational_patterns.factory_pattern.interfaces.IShape;
 
-public class MainShapePattern {
+public class MainFactoryPattern {
 
 	public static void startFactoryPattern() {
 		// uses the Factory class to get object of concrete class by passing an

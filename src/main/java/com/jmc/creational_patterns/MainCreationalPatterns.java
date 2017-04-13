@@ -3,7 +3,7 @@ package com.jmc.creational_patterns;
 import com.jmc.creational_patterns.abstract_pattern.MainAbtractFactory;
 import com.jmc.creational_patterns.builder_pattern.MainBuildedWindow;
 import com.jmc.creational_patterns.builder_pattern.builder.WindowBuilder;
-import com.jmc.creational_patterns.factory_pattern.MainShapePattern;
+import com.jmc.creational_patterns.factory_pattern.MainFactoryPattern;
 import com.jmc.creational_patterns.prototype_pattern.MainPrototype;
 import com.jmc.creational_patterns.singleton_pattern.MainSingletonWindow;
 
@@ -15,7 +15,7 @@ public class MainCreationalPatterns {
 	public static void main(String[] args) {
 
 		// FactoryPattern
- 		MainShapePattern.startFactoryPattern();
+ 		MainFactoryPattern.startFactoryPattern();
 
 		// AbstractPattern
 		MainAbtractFactory.startAbstractPattern();
