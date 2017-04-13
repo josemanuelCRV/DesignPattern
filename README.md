@@ -46,4 +46,4 @@ In core java, there are mainly three types of design patterns, which are further
 9. Template Pattern
 10. Visitor Pattern
 
-[![N|Solid](https://qph.ec.quoracdn.net/main-qimg-e966f479b74b12155f6a6ebdff1999cd-c)]
+(https://qph.ec.quoracdn.net/main-qimg-e966f479b74b12155f6a6ebdff1999cd-c)
