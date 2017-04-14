@@ -11,7 +11,8 @@ By using the adapter pattern we can unify the two incompatible interfaces.
 
 Example
 ----------
-First we create a Player interface to play any time of media files.
 
-1. MyPlayer is the adapter, it unifies the interface of playing media files.
-2. 
+
+1. First we create a Player interface to play any time of media files.
+2. Create AudioInterfaces and VideoInterfaces with play method for each one.
+2. MyPlayer is the adapter, it unifies the interface of playing media files.
