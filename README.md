@@ -29,7 +29,7 @@ In core java, there are mainly three types of design patterns, which are further
 4. [Prototype Pattern](src/main/java/com/jmc/creational_patterns/prototype_pattern)
 5. [Builder Pattern](src/main/java/com/jmc/creational_patterns/builder_pattern)
 >**Structural Design Pattern**
-1. Adapter Pattern
+1. [Adapter Pattern](src/main/java/com/jmc/structural_patterns/adapter_pattern)
 2. Bridge Pattern
 3. Composite Pattern
 4. Decorator Pattern
