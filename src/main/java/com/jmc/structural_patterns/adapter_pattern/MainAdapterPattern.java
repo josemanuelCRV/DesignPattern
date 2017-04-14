@@ -7,7 +7,7 @@ public class MainAdapterPattern {
 	public static void startMyPlayer(){
 		MyPlayerAdapter myPlayer = new MyPlayerAdapter();
 		myPlayer.play("mpg", "The GoodFather.mpg");
-		myPlayer.play("mp3", "We Will Rock you.mp3");
+		myPlayer.play("mp3", "Queen.mp3");
 	}
 	
 }
