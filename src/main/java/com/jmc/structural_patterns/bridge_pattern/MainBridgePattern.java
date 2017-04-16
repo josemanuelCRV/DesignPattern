@@ -1,9 +1,9 @@
 package com.jmc.structural_patterns.bridge_pattern;
 
 import com.jmc.structural_patterns.bridge_pattern.bridge.Shape;
-import com.jmc.structural_patterns.bridge_pattern.objects.BlackPrinter;
-import com.jmc.structural_patterns.bridge_pattern.objects.Circle;
-import com.jmc.structural_patterns.bridge_pattern.objects.ColorPrinter;
+import com.jmc.structural_patterns.bridge_pattern.models.BlackPrinter;
+import com.jmc.structural_patterns.bridge_pattern.models.Circle;
+import com.jmc.structural_patterns.bridge_pattern.models.ColorPrinter;
 
 public class MainBridgePattern {
 	

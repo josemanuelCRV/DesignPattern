@@ -2,12 +2,12 @@ package com.jmc.creational_patterns.abstract_pattern.factory;
 
 import com.jmc.creational_patterns.abstract_pattern.interfaces.IPrinter;
 import com.jmc.creational_patterns.abstract_pattern.interfaces.IShape;
-import com.jmc.creational_patterns.abstract_pattern.objects.Circle;
-import com.jmc.creational_patterns.abstract_pattern.objects.PaperPrinter;
-import com.jmc.creational_patterns.abstract_pattern.objects.Rectangle;
-import com.jmc.creational_patterns.abstract_pattern.objects.ScreenPrinter;
-import com.jmc.creational_patterns.abstract_pattern.objects.Square;
-import com.jmc.creational_patterns.abstract_pattern.objects.WebPrinter;
+import com.jmc.creational_patterns.abstract_pattern.models.Circle;
+import com.jmc.creational_patterns.abstract_pattern.models.PaperPrinter;
+import com.jmc.creational_patterns.abstract_pattern.models.Rectangle;
+import com.jmc.creational_patterns.abstract_pattern.models.ScreenPrinter;
+import com.jmc.creational_patterns.abstract_pattern.models.Square;
+import com.jmc.creational_patterns.abstract_pattern.models.WebPrinter;
 
 /**
  * 

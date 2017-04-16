@@ -9,3 +9,6 @@ Filter pattern is a structural pattern.
 
 Example
 --------
+1. Create a Employee class with  atributes, getters and setters.
+2. 
+3. 

@@ -2,10 +2,10 @@ package com.jmc.creational_patterns.prototype_pattern.prototype;
 
 import java.util.Hashtable;
 
-import com.jmc.creational_patterns.prototype_pattern.objects.Circle;
-import com.jmc.creational_patterns.prototype_pattern.objects.Rectangle;
-import com.jmc.creational_patterns.prototype_pattern.objects.Shape;
-import com.jmc.creational_patterns.prototype_pattern.objects.Square;
+import com.jmc.creational_patterns.prototype_pattern.models.Circle;
+import com.jmc.creational_patterns.prototype_pattern.models.Rectangle;
+import com.jmc.creational_patterns.prototype_pattern.models.Shape;
+import com.jmc.creational_patterns.prototype_pattern.models.Square;
 
 /**
  * After that it creates a ShapeProtoType class to return the prototype of

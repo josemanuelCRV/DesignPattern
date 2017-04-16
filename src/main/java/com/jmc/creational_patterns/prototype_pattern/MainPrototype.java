@@ -1,6 +1,6 @@
 package com.jmc.creational_patterns.prototype_pattern;
 
-import com.jmc.creational_patterns.prototype_pattern.objects.Shape;
+import com.jmc.creational_patterns.prototype_pattern.models.Shape;
 import com.jmc.creational_patterns.prototype_pattern.prototype.ShapeProtoType;
 
 public class MainPrototype {

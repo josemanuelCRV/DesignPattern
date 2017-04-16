@@ -3,8 +3,8 @@ package com.jmc.structural_patterns.adapter_pattern.adapter;
 import com.jmc.structural_patterns.adapter_pattern.interfaces.IAudioPlayer;
 import com.jmc.structural_patterns.adapter_pattern.interfaces.IPlayer;
 import com.jmc.structural_patterns.adapter_pattern.interfaces.IVideoPlayer;
-import com.jmc.structural_patterns.adapter_pattern.objects.MyAudioPlayer;
-import com.jmc.structural_patterns.adapter_pattern.objects.MyVideoPlayer;
+import com.jmc.structural_patterns.adapter_pattern.models.MyAudioPlayer;
+import com.jmc.structural_patterns.adapter_pattern.models.MyVideoPlayer;
 
 public class MyPlayerAdapter implements IPlayer {
 

@@ -1,9 +1,9 @@
 package com.jmc.creational_patterns.factory_pattern.factory;
 
 import com.jmc.creational_patterns.factory_pattern.interfaces.IShape;
-import com.jmc.creational_patterns.factory_pattern.objects.Circle;
-import com.jmc.creational_patterns.factory_pattern.objects.Rectangle;
-import com.jmc.creational_patterns.factory_pattern.objects.Square;
+import com.jmc.creational_patterns.factory_pattern.models.Circle;
+import com.jmc.creational_patterns.factory_pattern.models.Rectangle;
+import com.jmc.creational_patterns.factory_pattern.models.Square;
 
 /**
  * How to create a Factory class for Shape objects.
