@@ -10,6 +10,6 @@ Ejemplo
 --------
 Como ejemplo, supongamos que tenemos tres clases horriblemente escritas. De acuerdo con los nombres de clases y métodos (y la falta de documentación), sería muy difícil para un cliente interactuar con estas clases.
 
-La clase [Fachada](src/main/java/com/jmc/structural_patterns/facade_pattern/facadeExample) simplifica y expone al cliente los métodos para interactuar con las clases *Class1*, *Class2* y *Class3*.
+La clase [Fachada](https://github.com/josemanuelCRV/DesignPattern/tree/master/src/main/java/com/jmc/structural_patterns/facade_pattern/facadeExample) simplifica y expone al cliente los métodos para interactuar con las clases *Class1*, *Class2* y *Class3*.
 
 
