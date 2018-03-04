@@ -1,5 +1,5 @@
 Decorator Pattern
-================
+=================
 
 Decorator pattern adds new functionality an existing object without chaining its structure.
 
