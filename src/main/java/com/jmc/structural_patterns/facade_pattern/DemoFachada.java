@@ -1,4 +1,6 @@
-package com.jmc.structural_patterns.facade_pattern.facadeExample;
+package com.jmc.structural_patterns.facade_pattern;
+
+import com.jmc.structural_patterns.facade_pattern.facadeExample.Fachada;
 
 /**
  * 
