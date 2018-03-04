@@ -24,5 +24,5 @@ Primero, declararemos una interfaz de componente que declara las operaciones que
 
 
 <p>
-<img src="https://commons.wikimedia.org/wiki/File:Composite_UML_class_diagram_(fixed).svg#/media/File:Composite_UML_class_diagram_(fixed).svg">UML Decorator Pattern</img>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Composite_UML_class_diagram_%28fixed%29.svg/600px-Composite_UML_class_diagram_%28fixed%29.svg.png">UML Composite Pattern</img>
 </p>
