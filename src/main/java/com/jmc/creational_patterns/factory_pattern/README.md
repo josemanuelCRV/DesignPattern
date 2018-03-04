@@ -44,4 +44,4 @@ Por
 AnimalFactory animalFactory = AnimalFactory.getAnimalFactoryInstance();
 ```
 
-En este ejemplo, AnimalFactory.getAnimalFactoryInstance () se implementará para devolver un objeto estático de AnimalFactory. Esto da como resultado la creación de una instancia y el uso de una sola fábrica, en lugar de requerir la creación de una nueva fábrica cada vez que la fábrica necesita ser utilizada.
+En este ejemplo, AnimalFactory.getAnimalFactoryInstance() se implementará para devolver un objeto estático de AnimalFactory. Esto da como resultado la creación de una instancia y el uso de una sola fábrica, en lugar de requerir la creación de una nueva fábrica cada vez que la fábrica necesita ser utilizada.
